@@ -1,1 +1,10 @@
-![Metrics](https://metrics.lecoq.io/albertolerda?template=classic&isocalendar=1&languages=1&notable=1&introduction=1&isocalendar.duration=half-year&languages.ignored=vim%20script&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=Europe%2FRome)
+﻿﻿<h1 align="center">Hi 👋, I'm Alberto</h1>
+<h3 align="center">A passionate Software Engineer 🧑🏻‍💻 from Italy 🇮🇹, currently based in the beautiful Switzerland 🇨🇭.</h3>
+
+- 🧐 I'm interested in **back-end dev**, **Linux**, **DevOps** and **open source**
+
+- 🔭 I’m currently working as **Devops Engineer**: CI/CD pipeline, Kubernetes
+
+- 🌱 I’m currently learning **German 🇩🇪**
+
+You might also enjoy my [blog](https://albertolerda.com/blog) and [YouTube channel](https://youtube.com/@the-lisper).
