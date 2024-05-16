@@ -3,7 +3,7 @@
 
 - 🧐 I'm interested in **back-end dev**, **Linux**, **DevOps** and **open source**
 
-- 🔭 I’m currently working as **Devops Engineer**: CI/CD pipeline, Kubernetes
+- 🔭 I’m currently working as **Devops Engineer**
 
 - 🌱 I’m currently learning **German 🇩🇪**
 
