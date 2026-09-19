@@ -7,4 +7,3 @@
 
 - 🌱 I’m currently learning **German 🇩🇪**
 
-You might also enjoy my [blog](https://albertolerda.com/blog) and [YouTube channel](https://youtube.com/@the-lisper).
